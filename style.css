@@ -1,0 +1,62 @@
+header{
+    height: 100px;
+    background-color: black;
+    width: 100%;
+}
+
+header h1 {
+    float: left;
+    color: blanchedalmond;
+    font-size: 30px;
+    position: relative;
+    left: 3%;
+    margin-top: 2%;
+
+}
+
+header ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 5%;
+}
+header ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: 21px;
+
+}
+header ul {
+    position: relative;
+    left: 75%;
+    padding-top: 2.3%;
+    margin: 0px;
+}
+.bold th{
+    font-weight: bolder;
+}
+th {
+    border: solid 1px;
+    border-collapse: collapse;
+    width: 65px;
+    height: 40px;
+    font-size: 19px;
+}
+
+table{
+    border-collapse: collapse;
+    position: relative;
+    left: 47%;
+    margin-top: 4%;
+}
+
+#format {
+    float: left;
+    position: relative;
+    left: 0%;
+    margin-top: 0%;
+}
+
+label{
+    font-size: 19px;
+    font-weight: bolder;
+}
